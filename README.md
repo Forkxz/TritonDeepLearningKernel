@@ -14,4 +14,4 @@ This repository contains some useful kernels written in the Triton language for 
 ### Supported Kernels
 Click to view the documentation of each kernel
 * [General Matrix Multiplication](doc/GEMM.md)
-* [DropConnect]([doc/DropConnect.md](https://forkxz.github.io/blog/2024/DropConnect/))
+* [DropConnect](https://forkxz.github.io/blog/2024/DropConnect/)
