@@ -1,0 +1,3 @@
+### General Matrix Multiplication
+Code is based on the official [tutorial](https://triton-lang.org/main/getting-started/tutorials/03-matrix-multiplication.html)
+The original version has accuracy issue under `tf32` as discussed in [issue](https://github.com/triton-lang/triton/issues/4574). This implementation used the method discussed to solve the accuracy issue. The accuracy benchmark used in that issue is also included in [here](../notebook/GEMMCorrectness.ipynb).
